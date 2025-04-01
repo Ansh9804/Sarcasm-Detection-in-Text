@@ -1,4 +1,4 @@
-# Sarcasm Detection System
+# Sarcasm Detection in Text
 
 ## Overview
 The Sarcasm Detection System is a machine learning-based project designed to identify sarcastic text using various classification models. This system leverages natural language processing (NLP) techniques and multiple algorithms, including Stochastic Gradient Descent (SGD) Classifier, Logistic Regression, and Ridge Regression, to accurately detect sarcasm in textual data. The project aims to provide an effective tool for sentiment analysis, social media monitoring, or any application requiring nuanced text interpretation.
